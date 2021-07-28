@@ -204,6 +204,7 @@ public class GameStateSync : MonoBehaviour
             new ShowMessageCommand(newGameView.winner + " Wins!", 99999f).AddToQueue();
         }
 
+
         // update game phase and display turn message
         SyncPhase(newGameView);
 
