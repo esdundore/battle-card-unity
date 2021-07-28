@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c49d1a5846b4a0a4eb7bbf1fb7e35fda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SkillCardPrefab: {fileID: 6615475426041982140, guid: 34673880560931149a17857dfa1e1b2d, type: 3}
+  - ArrowTarget: {instanceID: 0}
+  - MonsterCardPrefab: {fileID: 173623432427942046, guid: 96d55da29694d0c42a89b978e05de395, type: 3}
+  - AvatarPrefab: {fileID: 8896863791883448206, guid: 1a0b42cfb44e514489fb6dbc119ed4e1, type: 3}
+  - DamageEffectPrefab: {instanceID: 0}
+  - playerArea: {instanceID: 0}
+  - opponentArea: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

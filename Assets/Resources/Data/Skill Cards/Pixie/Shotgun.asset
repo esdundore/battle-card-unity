@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffc36090ba7d634e8f63b7f391b6e5c, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  userAsset: {fileID: 11400000, guid: 5981d9ae108947640a3c63c69668cd65, type: 2}
+  image: {fileID: 21300000, guid: 34610f94d074d9d47bec31ebc06e9d04, type: 3}
+  gutsCost: 3
+  currentGutsCost: 3
+  damage: 2
+  currentDamage: 2
+  title: Shotgun
+  type: INT
+  description: Damages all opponent's monsters.

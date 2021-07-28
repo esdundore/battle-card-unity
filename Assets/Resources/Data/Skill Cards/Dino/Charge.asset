@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffc36090ba7d634e8f63b7f391b6e5c, type: 3}
+  m_Name: Charge
+  m_EditorClassIdentifier: 
+  userAsset: {fileID: 11400000, guid: 5851c3ab65682d14c964056e40f0f132, type: 2}
+  image: {fileID: 21300000, guid: 5c13204cdc3eddc4fade307e33bfc0a9, type: 3}
+  gutsCost: 2
+  currentGutsCost: 2
+  damage: 4
+  currentDamage: 4
+  title: Charge
+  type: POW
+  description: Deal 1 damage to the user if not dodged.

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf499d012de01a6469502b2fa7f57d0b, type: 3}
+  m_Name: Naga
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: d2369f56c6ebf454b97ec58451ed1ebc, type: 3}
+  cardColor:
+    serializedVersion: 2
+    rgba: 4288505468
+  iconColor:
+    serializedVersion: 2
+    rgba: 4283380542
+  life: 8
+  currentLife: 8
+  tempDamage: 0
+  title: Naga
+  type: GRD
+  currentType: GRD
+  mainLineage: {fileID: 11400000}
+  subLineage: {fileID: 11400000}
+  statuses: []
